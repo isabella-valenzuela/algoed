@@ -1,0 +1,3 @@
+C:/Users/Isabella/Desktop/26-2/AlgoED/Laboratorio03/badsunny/cmake-build-debug/CMakeFiles/badsunny.dir
+C:/Users/Isabella/Desktop/26-2/AlgoED/Laboratorio03/badsunny/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isabella/Desktop/26-2/AlgoED/Laboratorio03/badsunny/cmake-build-debug/CMakeFiles/rebuild_cache.dir
